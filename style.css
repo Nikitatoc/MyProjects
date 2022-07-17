@@ -1,0 +1,57 @@
+a{color:#ffffff}
+.back{background-color:#081f45; padding: 30px; text-align: left; margin:0px 0px 0px 0px}
+#head{background-color:#081f45; padding: 20px; text-align: right; margin:0px 0px 0px 0px}
+.centr{text-align: center}
+h1{color:#1992c2}
+h2{color:#1992c2}
+.div{float: left;
+    width: 20%; margin: 150px 0px 50px 300px; text-align: center}
+.button {border-radius: 100px;
+    background: #c2c219;
+    padding: 10px;
+    border: 10px;
+    width: 300px}
+.button:hover{
+    border: 1px solid #030303
+}
+img{ float: right;
+    margin: 10px 10px 5px 5px}
+.wniz{margin:100px 100px 0px}
+#div{background:linear-gradient(to right,#d2ebfa 1%,#ffffff 100%) ;width: 100%; height: 500px}
+#div2{
+    display: flex;
+    justify-content: center;
+    margin:0px 0px 200px 0px;
+    transform:rotate(3deg);
+}
+#paraller2{transform:rotate(3deg)}
+#rasstoynie{margin: 0px 0px 200px 0px}
+.right{margin: 0px 10px}
+#paraller{
+    background:linear-gradient(to right,#191e73 40%,#1c61b0 100%);
+    height: 530px;
+    transform: skew(0,357deg);
+    color: white;
+    margin: 0px 0px 100px;
+}
+#wniz2{margin: 0px 0px 100px}
+#wniz3{margin: 0px 0px 150px}
+.block1{float: left;
+    display: block;
+    width: 300px;
+    margin: 1px;}
+.block2{float: left;
+    display: block;
+    width: 1350px;
+    margin: 0px 0px 100px 0px;}
+#spisok{float:left; width: 100%; margin: 50px 0px 0px 500px;}
+#dls{width: 100%; margin: 50px 0px 0px 500px}
+#blue{background-color: #045bcc; width: 25%; margin: 0px; border-radius: 3% ;color: white}
+#blue2{background-color: #045bcc;width: 25%; margin: 0px 30px 50px 30px;border-radius: 3% ;color: white}
+#left{margin: 0px 250px 0px 0px; text-align: center  }
+#right{margin: 0px 950px 100px;width: 100%;}
+#final{margin: 0px 700px 50px}
+#finalcolor{; height: 150px; background:linear-gradient(to right,#070c5e 40%,#1c61b0 100%)}
+#reg{width: 300px;padding: 15px; color:#1992c2; font-size: 25px; font-weight: bold; box-shadow: -1px 1px 4px #c8f9fa; border: 0px}
+#agr{box-shadow: -1px 2px 4px #c8f9fa; border: 0px }
+form{margin: 0px 0px 1000px 500px}
